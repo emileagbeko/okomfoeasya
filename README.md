@@ -7,8 +7,15 @@ Pitch (≤150 chars): Tamper-proof driver safety & defect logs on Algorand — v
 Canva link: https://www.canva.com/design/DAG2Ij9BucA/qDeF2DRoQKRA8Vdo5dzCwA/edit?utm_content=DAG2Ij9BucA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
 Screenshot of Operator Dashboard
+
+<img width="446" height="214" alt="image" src="https://github.com/user-attachments/assets/9f36b958-ce8b-4a59-8725-e2223f48c742" />
+
+
  
 Screenshot of Driver App (below)
+
+<img width="149" height="274" alt="image" src="https://github.com/user-attachments/assets/f8d0b4f7-9b9d-4125-9a33-e4647b3d21df" />
+
  
 Overview
 Problem. Driver checks and vehicle defect reports live in spreadsheets, PDFs, and email chains. Audits are slow; trust is manual; records can be tampered with.
